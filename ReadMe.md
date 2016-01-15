@@ -22,14 +22,14 @@ var cebolinha = require('cebolinha');
 cebolinha('Olá, Programadores!'); //=> 'Olá, Ploglamadoles!'
 ```
 
-Cebolinha não fala errado quando a letra R é a última da palavra seguida de uma vogal:
+Cebolinha não fala errado quando a letra *R* é a última da palavra seguida de uma vogal:
 
 ```js
 cebolinha('Comer'); //=> 'Comer'
 cebolinha('Dormir'); //=> 'Dormir'
 ```
 
-Quando o R é seguido por L, vira U:
+Quando o *R* é seguido por *L*, vira *U*:
 
 ```js
 cebolinha('Carlos'); //=> 'Caulos'
