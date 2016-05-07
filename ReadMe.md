@@ -2,7 +2,7 @@
 
 > *Trocar o “R” pelo “L”.*
 
-![](http://180graus.com/res/imagens/portal/2014/11/08/20131206233806cebolinhasan-300x250e.png)
+![](https://raw.githubusercontent.com/theuves/cebolinha/master/cebolinha.png)
 
 ## Instalação
 
