@@ -1,6 +1,6 @@
 {
     "name": "cebolinha",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Trocar o “R” pelo “L”.",
     "main": "index.js",
     "repository": {
