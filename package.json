@@ -1,16 +1,19 @@
 {
-    "name": "cebolinha",
-    "version": "0.0.5",
-    "description": "Trocar o “R” pelo “L”.",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/theuves/cebolinha.git"
-    },
-    "keywords": [
-        "português",
-        "portuguese"
-    ],
-    "author": "Matheus Alves",
-    "license": "MIT"
+  "name": "cebolinha",
+  "version": "0.0.5",
+  "description": "Trocar o “R” pelo “L”.",
+  "main": "index.js",
+  "repository": "theuves/cebolinha",
+  "keywords": [
+    "português",
+    "portuguese"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2"
+  },
+  "author": "Matheus Alves",
+  "license": "MIT"
 }
