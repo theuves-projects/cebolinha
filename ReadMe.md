@@ -1,4 +1,4 @@
-# cebolinha
+# cebolinha [![Build Status](https://travis-ci.org/theuves/cebolinha.svg?branch=master)](https://travis-ci.org/theuves/cebolinha)
 
 > *Trocar o “R” pelo “L”.*
 
