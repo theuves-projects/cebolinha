@@ -8,7 +8,7 @@
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "^0.15.2"
+    "jasmine": "^3.0.0"
   },
   "author": "Matheus Alves",
   "license": "MIT"
