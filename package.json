@@ -1,7 +1,7 @@
 {
   "name": "cebolinha",
   "version": "0.0.6",
-  "description": "Trocar o “R” pelo “L”.",
+  "description": "Fale como o Cebolinha.",
   "main": "index.js",
   "repository": "theuves/cebolinha",
   "scripts": {
