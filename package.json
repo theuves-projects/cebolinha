@@ -4,10 +4,6 @@
   "description": "Trocar o “R” pelo “L”.",
   "main": "index.js",
   "repository": "theuves/cebolinha",
-  "keywords": [
-    "português",
-    "portuguese"
-  ],
   "scripts": {
     "test": "ava"
   },
