@@ -8,6 +8,6 @@ function cebolinha(string) {
     .replace(/R(?=(l|L))/g, "U")
     .replace(/r+(?!\b)/g, "l")
     .replace(/R+(?!\b)/g, "L");
-};
+}
 
 module.exports = cebolinha;
