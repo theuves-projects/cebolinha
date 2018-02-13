@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "theuves/cebolinha",
   "scripts": {
-    "test": "ava"
+    "test": "jasmine test.js"
   },
   "devDependencies": {
     "jasmine": "^3.0.0"
