@@ -19,5 +19,12 @@ describe("cebolinha", () => {
     expect(cebolinha("PRATO")).toBe("PLATO");
     expect(cebolinha("RATO")).toBe("LATO");
   });
+  it("deveria funcionar com acentos", () => {
+    expect(cebolinha("três")).toBe("tlês");
+    expect(cebolinha("prêmio")).toBe("plêmio");
+    expect(cebolinha("páreo")).toBe("páleo");
+    expect(cebolinha("miríade")).toBe("milíade");
+    expect(cebolinha("TRÊS")).toBe("TLÊS");
+    expect(cebolinha("PÁREO")).toBe("PÁLEO");
+  });
 });
-

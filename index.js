@@ -7,7 +7,9 @@ function cebolinha(string) {
     .replace(/r(?=(l|L))/g, "u")
     .replace(/R(?=(l|L))/g, "U")
     .replace(/r+(?!\b)/g, "l")
-    .replace(/R+(?!\b)/g, "L");
+    .replace(/R+(?!\b)/g, "L")
+    .replace(/r(?=[À-ÖØ-ö])/g, "l")
+    .replace(/R(?=[À-ÖØ-ö])/g, "L");
 }
 
 module.exports = cebolinha;
